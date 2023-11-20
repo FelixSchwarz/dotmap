@@ -8,3 +8,5 @@ dist/
 dotmap.egg-info/
 dotmap/__init__.pyc
 dotmap/__pycache__/
+/venv*
+/.pytest_cache/
